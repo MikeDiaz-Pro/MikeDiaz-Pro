@@ -40,9 +40,8 @@ My approach combines:
 ---
 
 ### 🌐 Connect with Me
-[💼 LinkedIn](https://www.linkedin.com/in/mikediazpro)  
-[📂 Portfolio Website](https://your-portfolio-url.com)  
-[📧 Contact](mailto:contact@yourdomain.com)
+[💼 LinkedIn](https://www.linkedin.com/in/migueldia3c/)  
+[📂 Portfolio Website](https://web.migueldiaz.info/)  
 
 ---
 
