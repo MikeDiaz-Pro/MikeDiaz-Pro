@@ -26,7 +26,6 @@ With **8+ years of experience**, I’ve designed and implemented cloud-native so
 |----------|--------------|--------|
 | 🤖 **AI Demo Hub** | Multi-service platform showcasing **LLM orchestration**, **RAG pipelines**, and **semantic embeddings**. Includes: <br>• Python microservice (FastAPI + OpenAI + MongoDB)<br>• Spring Boot API for orchestration<br>• React + Tailwind frontend<br>• n8n workflows for HITL and automation | Python (FastAPI), Java (Spring Boot), React, Docker, PostgreSQL, MongoDB |
 | 💼 **Job Applications Tracker** | Fullstack web app to manage job applications and analyze progress with visual dashboards. | React, Spring Boot, PostgreSQL |
-| ⚖️ **Confidex Platform** | Legal-tech system for secure video sessions, case tracking, and evidence management — built for real-world deployment. | Java, React, Kurento, PostgreSQL, AWS |
 | 🔁 **n8n AI Workflows** | Low-code orchestrations combining OpenAI with internal APIs for automation, context retrieval, and semantic search. | n8n, Python API, OpenAI, MongoDB |
 
 ---
