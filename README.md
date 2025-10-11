@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Miguel Díaz  
 
-🚀 **Full Stack & AI Engineer** with 8+ years of experience designing and building scalable, cloud-based, and AI-driven applications.  
-I specialize in **Java (Spring Boot)**, **React**, **Docker**, and **AI integrations** with OpenAI, LangChain, and AWS.  
+🚀 **Full Stack & AI Engineer** passionate about building intelligent, scalable, and modular systems that blend **software engineering** with **artificial intelligence**.  
+With **8+ years of experience**, I’ve designed and implemented cloud-native solutions using **Java (Spring Boot)**, **Python (FastAPI)**, **React**, and **Docker**, focusing on **LLM orchestration**, **RAG pipelines**, and **workflow automation**.
 
 ---
 
 ### 🧠 Tech Stack
 **Languages:** Java, Python, JavaScript (React), SQL, Bash  
-**Frameworks:** Spring Boot, React, LangChain4j, Redux Toolkit  
+**Frameworks:** Spring Boot, FastAPI, React, Redux Toolkit, LangChain4j  
 **Databases:** PostgreSQL, MongoDB, MySQL  
 **DevOps & Cloud:** AWS (EC2, S3, CloudFront), Docker, NGINX, Terraform, Prometheus, Grafana  
-**AI / ML:** OpenAI API, LangChain, LangGraph, RAG, Azure AI, n8n  
+**AI / ML:** OpenAI API, LangChain, LangGraph, Azure OpenAI, RAG, n8n, HITL  
 
 ---
 
@@ -24,18 +24,35 @@ I specialize in **Java (Spring Boot)**, **React**, **Docker**, and **AI integrat
 ### 🧩 Highlighted Projects
 | Project | Description | Stack |
 |----------|--------------|--------|
-| 🧠 **AI Demo Hub** | Experimental platform for building AI workflows and showcasing LLM integrations with LangChain4j + Azure OpenAI. | Java, React, Docker, LangChain4j |
-| 💼 **Job Applications Tracker** | Fullstack application to manage job applications, track progress, and analyze metrics through dashboards. | React, Spring Boot, PostgreSQL |
+| 🤖 **AI Demo Hub** | Multi-service platform showcasing **LLM orchestration**, **RAG pipelines**, and **semantic embeddings**. Includes: <br>• Python microservice (FastAPI + OpenAI + MongoDB)<br>• Spring Boot API for orchestration<br>• React + Tailwind frontend<br>• n8n workflows for HITL and automation | Python (FastAPI), Java (Spring Boot), React, Docker, PostgreSQL, MongoDB |
+| 💼 **Job Applications Tracker** | Fullstack web app to manage job applications and analyze progress with visual dashboards. | React, Spring Boot, PostgreSQL |
+| ⚖️ **Confidex Platform** | Legal-tech system for secure video sessions, case tracking, and evidence management — built for real-world deployment. | Java, React, Kurento, PostgreSQL, AWS |
+| 🔁 **n8n AI Workflows** | Low-code orchestrations combining OpenAI with internal APIs for automation, context retrieval, and semantic search. | n8n, Python API, OpenAI, MongoDB |
 
 ---
 
-### 🛠️ Development Philosophy
-I build **modular, maintainable, and scalable systems** with a focus on clean architecture, performance, and automation.  
+### 🧱 Development Philosophy
+I design systems that are **modular, maintainable, and measurable**, prioritizing **clarity**, **automation**, and **AI-readiness**.
+
 My approach combines:
-- ⚙️ **Automation-first mindset** (CI/CD, DevOps principles)  
-- 🧩 **Component-driven design** for reusable frontend and backend structures  
-- 🤝 **Collaborative workflows** with Agile/Scrum and Git best practices  
-- 🧠 **Continuous learning** in AI systems and software engineering  
+- ⚙️ **Automation-first mindset** — CI/CD, Dockerized environments, IaC principles  
+- 🧩 **Component-driven architecture** — reusable UI and backend modules  
+- 🧠 **AI engineering focus** — building retrieval-augmented and context-aware pipelines  
+- 🤝 **Agile collaboration** — transparent workflows, reviews, and iterative delivery  
+
+---
+
+### 🧠 About *AI Demo Hub*
+**AI Demo Hub** is an R&D platform designed to experiment with **LLMs**, **RAG pipelines**, and **agent-based workflows** using modern, production-grade tools.
+
+**Core components:**
+- 🧩 **LangChain Service:** Python (FastAPI + OpenAI + MongoDB)  
+- ⚙️ **Spring Boot API:** Integration layer for business logic and PostgreSQL persistence  
+- 💬 **React Frontend:** Interface for chat, metrics, and model testing  
+- 🔄 **n8n Orchestration:** Workflow automation with HITL (Human-in-the-loop)  
+- 📊 **Prometheus / Grafana:** Monitoring and performance analytics  
+
+🧠 *“Understand the architecture before you automate it.”* — guiding principle behind every iteration.
 
 ---
 
