@@ -57,8 +57,6 @@ My approach combines:
 
 ### 🌐 Connect with Me
 [💼 LinkedIn](https://www.linkedin.com/in/migueldia3c/)  
-[📂 Portfolio Website](https://web.migueldiaz.info/)  
-
 ---
 
 ⭐️ *Passionate about creating impactful software that blends technology, intelligence, and design.*
