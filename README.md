@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Miguel Díaz  
+# Hi, I'm Miguel Díaz  
 
-🚀 **Full Stack & AI Engineer** passionate about building intelligent, scalable, and modular systems that blend **software engineering** with **artificial intelligence**.  
-With **8+ years of experience**, I’ve designed and implemented cloud-native solutions using **Java (Spring Boot)**, **Python (FastAPI)**, **React**, and **Docker**, focusing on **LLM orchestration**, **RAG pipelines**, and **workflow automation**.
+**Full Stack & AI Engineer** passionate about building intelligent, scalable, and modular systems that blend **software engineering** with **artificial intelligence**.  
+With **9+ years of experience**, I’ve designed and implemented cloud-native solutions using **Java (Spring Boot)**, **Python (FastAPI)**, **React**, and **Docker**, focusing on **LLM orchestration**, **RAG pipelines**, and **workflow automation**.
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 **Languages:** Java, Python, JavaScript (React), SQL, Bash  
 **Frameworks:** Spring Boot, FastAPI, React, Redux Toolkit, LangChain4j  
 **Databases:** PostgreSQL, MongoDB, MySQL  
@@ -14,14 +14,14 @@ With **8+ years of experience**, I’ve designed and implemented cloud-native so
 
 ---
 
-### 📊 GitHub Overview
+### GitHub Overview
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeDiaz-Pro&layout=donut&theme=tokyonight)
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeDiaz-Pro&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🧩 Highlighted Projects
+### Highlighted Projects
 | Project | Description | Stack |
 |----------|--------------|--------|
 | 🤖 **AI Demo Hub** | Multi-service platform showcasing **LLM orchestration**, **RAG pipelines**, and **semantic embeddings**. Includes: <br>• Python microservice (FastAPI + OpenAI + MongoDB)<br>• Spring Boot API for orchestration<br>• React + Tailwind frontend<br>• n8n workflows for HITL and automation | Python (FastAPI), Java (Spring Boot), React, Docker, PostgreSQL, MongoDB |
@@ -30,7 +30,7 @@ With **8+ years of experience**, I’ve designed and implemented cloud-native so
 
 ---
 
-### 🧱 Development Philosophy
+### Development Philosophy
 I design systems that are **modular, maintainable, and measurable**, prioritizing **clarity**, **automation**, and **AI-readiness**.
 
 My approach combines:
@@ -41,7 +41,7 @@ My approach combines:
 
 ---
 
-### 🧠 About *AI Demo Hub*
+### About *AI Demo Hub*
 **AI Demo Hub** is an R&D platform designed to experiment with **LLMs**, **RAG pipelines**, and **agent-based workflows** using modern, production-grade tools.
 
 **Core components:**
