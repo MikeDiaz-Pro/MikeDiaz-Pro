@@ -7,10 +7,10 @@ With **9+ years of experience**, I’ve designed and implemented cloud-native so
 
 ### Tech Stack
 **Languages:** Java, Python, JavaScript (React), SQL, Bash  
-**Frameworks:** Spring Boot, FastAPI, React, Redux Toolkit, LangChain4j  
-**Databases:** PostgreSQL, MongoDB, MySQL  
-**DevOps & Cloud:** AWS (EC2, S3, CloudFront), Docker, NGINX, Terraform, Prometheus, Grafana  
-**AI / ML:** OpenAI API, LangChain, LangGraph, Azure OpenAI, RAG, n8n, HITL  
+**Frameworks:** Spring Boot, FastAPI, React, Redux Toolkit  
+**Databases:** PostgreSQL, MySQL, MSSQL, MongoDB, Redis
+**DevOps & Cloud:** AWS (EC2, S3, CloudFront), Docker, NGINX, Prometheus, Grafana  
+**AI / ML:** OpenAI API, LangChain, LangGraph, Azure OpenAI, RAG, n8n, HITL
 
 ---
 
@@ -24,9 +24,9 @@ With **9+ years of experience**, I’ve designed and implemented cloud-native so
 ### Highlighted Projects
 | Project | Description | Stack |
 |----------|--------------|--------|
-| 🤖 **AI Demo Hub** | Multi-service platform showcasing **LLM orchestration**, **RAG pipelines**, and **semantic embeddings**. Includes: <br>• Python microservice (FastAPI + OpenAI + MongoDB)<br>• Spring Boot API for orchestration<br>• React + Tailwind frontend<br>• n8n workflows for HITL and automation | Python (FastAPI), Java (Spring Boot), React, Docker, PostgreSQL, MongoDB |
-| 💼 **Job Applications Tracker** | Fullstack web app to manage job applications and analyze progress with visual dashboards. | React, Spring Boot, PostgreSQL |
-| 🔁 **n8n AI Workflows** | Low-code orchestrations combining OpenAI with internal APIs for automation, context retrieval, and semantic search. | n8n, Python API, OpenAI, MongoDB |
+|  **AI Demo Hub** | Multi-service platform showcasing **LLM orchestration**, **RAG pipelines**, and **semantic embeddings**. Includes: <br>• Python microservice (FastAPI + OpenAI + MongoDB)<br>• Spring Boot API for orchestration<br>• React + Tailwind frontend<br>• n8n workflows for HITL and automation | Python (FastAPI), Java (Spring Boot), React, Docker, PostgreSQL, MongoDB |
+|  **Job Applications Tracker** | Fullstack web app to manage job applications and analyze progress with visual dashboards. | React, Spring Boot, PostgreSQL |
+|  **n8n AI Workflows** | Low-code orchestrations combining OpenAI with internal APIs for automation, context retrieval, and semantic search. | n8n, Python API, OpenAI, MongoDB |
 
 ---
 
