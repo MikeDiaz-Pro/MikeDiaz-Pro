@@ -11,7 +11,7 @@ With **9+ years of experience**, I’ve designed and implemented cloud-native so
 **Databases:** PostgreSQL, MySQL, MSSQL, MongoDB, Redis
 **DevOps & Cloud:** AWS (EC2, S3, CloudFront), Docker, NGINX, Prometheus, Grafana  
 **AI / ML:** OpenAI API, LangChain, LangGraph, Azure OpenAI, RAG, n8n, HITL
-
+**Real-Time & Communication:** WebRTC, Kurento, Coturn, Socket.IO
 ---
 
 ### GitHub Overview
