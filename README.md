@@ -5,7 +5,7 @@ With **9+ years of experience**, I’ve designed and implemented cloud-native so
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
 - **Languages:**  
   Java, Python, JavaScript (React), SQL, Bash  
