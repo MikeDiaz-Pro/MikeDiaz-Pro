@@ -10,6 +10,7 @@ With **9+ years of experience**, I’ve designed and implemented cloud-native so
 **Frameworks:** Spring Boot, FastAPI, React, Redux Toolkit  
 **Databases:** PostgreSQL, MySQL, MSSQL, MongoDB, Redis
 **DevOps & Cloud:** AWS (EC2, S3, CloudFront), Docker, NGINX, Prometheus, Grafana  
+**Real-Time & Communication:** WebRTC, Kurento, Coturn, Socket.IO
 **AI / ML:** OpenAI API, LangChain, LangGraph, Azure OpenAI, RAG, n8n, HITL
 
 ---
