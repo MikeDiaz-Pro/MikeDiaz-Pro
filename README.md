@@ -25,6 +25,9 @@ With **9+ years of experience**, I’ve designed and implemented cloud-native so
 - **AI / ML:**  
   OpenAI API, LangChain, LangGraph, Azure OpenAI, RAG, n8n, HITL
 
+- **Build Tools:**  
+  Maven, Gradle, Vite, Webpack, npm, Yarn
+
 ---
 
 ### GitHub Overview
